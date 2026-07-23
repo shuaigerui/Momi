@@ -172,7 +172,7 @@
 				<key>MARKETING_VERSION</key>
 				<string>1.0</string>
 				<key>PRODUCT_BUNDLE_IDENTIFIER</key>
-				<string>aaa.MotoMomi</string>
+				<string>com.MotorcycleSocial.momi</string>
 				<key>PRODUCT_NAME</key>
 				<string>$(TARGET_NAME)</string>
 				<key>STRING_CATALOG_GENERATE_SYMBOLS</key>
@@ -197,6 +197,8 @@
 				<string>5.0</string>
 				<key>TARGETED_DEVICE_FAMILY</key>
 				<string>1</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
 			</dict>
 			<key>isa</key>
 			<string>XCBuildConfiguration</string>
@@ -375,6 +377,8 @@
 				<string>5.0</string>
 				<key>TARGETED_DEVICE_FAMILY</key>
 				<string>1</string>
+				<key>VERSIONING_SYSTEM</key>
+				<string>apple-generic</string>
 			</dict>
 			<key>isa</key>
 			<string>XCBuildConfiguration</string>

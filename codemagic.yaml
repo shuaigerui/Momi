@@ -82,10 +82,13 @@ workflows:
           fi
           
           echo "Setting build number to: $NEW_BUILD_NUMBER"
-          agvtool new-version -all $NEW_BUILD_NUMBER
+          cd "$CM_BUILD_DIR"
+          agvtool new-version -all "$NEW_BUILD_NUMBER"
       
       - name: Build ipa for distribution
         script: |
+          echo "Workspace=$XCODE_WORKSPACE Scheme=$XCODE_SCHEME"
+          xcodebuild -list -workspace "$XCODE_WORKSPACE"
           xcode-project build-ipa \
             --workspace "$XCODE_WORKSPACE" \
             --scheme "$XCODE_SCHEME"
