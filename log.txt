@@ -1,0 +1,1105 @@
+开始自动混淆项目代码扫描文件中。。。。。。
+
+
+混淆项目路径：/Users/a0000/Desktop/whc_clone_directory/MotoMomi
+新文件 <-> 现有文件 : LaunchScreen.storyboard      LaunchScreen.storyboard
+新文件 <-> 现有文件 : Main.storyboard      Main.storyboard
+新文件 <-> 现有文件 : MMO_LaunchLogin.swift      GatewayClient.swift
+新文件 <-> 现有文件 : MMO_Register.swift      LocalStore.swift
+新文件 <-> 现有文件 : MMO_Moto.swift      ThemeComponents.swift
+新文件 <-> 现有文件 : MMO_Root.swift      AppTheme.swift
+新文件 <-> 现有文件 : MMO_Guide.swift      AccountSession.swift
+新文件 <-> 现有文件 : MMO_Local.swift      AppRootRouter.swift
+新文件 <-> 现有文件 : MMO_Feed.swift      DomainModels.swift
+新文件 <-> 现有文件 : AppDelegate.swift      AppDelegate.swift
+新文件 <-> 现有文件 : MMO_MotoController.swift      LaunchViewController.swift
+新文件 <-> 现有文件 : MMO_MotoVideo.swift      SettingsWalletPublish.swift
+新文件 <-> 现有文件 : MMO_ViewsController.swift      HomeTeamViewController.swift
+新文件 <-> 现有文件 : MMO_ModityViewsController.swift      TeamDetailViewController.swift
+新文件 <-> 现有文件 : MMO_RootController.swift      VideoFeedViewController.swift
+新文件 <-> 现有文件 : MMO_Publish.swift      GuideAuthViews.swift
+新文件 <-> 现有文件 : MMO_ComponentsHome.swift      SocialSecondaryViews.swift
+新文件 <-> 现有文件 : MMO_ClientLaunchController.swift      MainTabBarController.swift
+新文件 <-> 现有文件 : MMO_RegisterController.swift      MapViewController.swift
+新文件 <-> 现有文件 : MMO_DomainHomeController.swift      ClubDetailViewController.swift
+新文件 <-> 现有文件 : MMO_PublishComponents.swift      ClubProfileViews.swift
+新文件 <-> 现有文件 : MMO_LoginController.swift      MyMotoViewController.swift
+新文件 <-> 现有文件 : MMO_Theme.swift      SocialServices.swift
+新文件 <-> 现有文件 : MMO_RootCenter.swift      CatalogBootstrap.swift
+
+
+自动为您开启5个线程进行混淆。。。。。。。
+开始自动清理源代码中的注释。。。。。。
+
+
+
+
+开始提取所有源文件中的类名并生成新类名。。。。。。
+类名: GatewayResponse <---替换为---> MMO_MotoSettings
+类名: GatewayClient <---替换为---> MMO_LaunchLogin
+类名: EmptyPayload <---替换为---> MMO_Models
+类名: LocalStore <---替换为---> MMO_Register
+类名: GradientBackgroundView <---替换为---> MMO_ClubFeedView
+类名: CapsuleButton <---替换为---> MMO_SecondaryMotoButton
+类名: FixedNavHeader <---替换为---> MMO_EditHeader
+类名: PageLoadingView <---替换为---> MMO_FeedView
+类名: EmptyStateView <---替换为---> MMO_RideView
+类名: ThemeAlertView <---替换为---> MMO_RouterAuthView
+类名: ThemeToast <---替换为---> MMO_Detail
+类名: BaseScrollController <---替换为---> MMO_MainSocialController
+类名: AccountSession <---替换为---> MMO_Guide
+类名: RiderProfile <---替换为---> MMO_Router
+类名: RidePost <---替换为---> MMO_ThemeClient
+类名: RideComment <---替换为---> MMO_Profile
+类名: TeamRide <---替换为---> MMO_Bootstrap
+类名: ClubItem <---替换为---> MMO_SecondaryItem
+类名: ChatMessage <---替换为---> MMO_LocalTeam
+类名: ConversationItem <---替换为---> MMO_PublishProfileItem
+类名: CoinProduct <---替换为---> MMO_LoginSession
+类名: RegisteredAccount <---替换为---> MMO_Domain
+类名: SocialGraphState <---替换为---> MMO_FeedScreen
+类名: ReportRecord <---替换为---> MMO_Settings
+类名: AppDelegate <---替换为---> AppDelegate
+类名: LaunchViewController <---替换为---> MMO_MotoController
+类名: RelationListViewController <---替换为---> MMO_BootstrapController
+类名: RelationUserCell <---替换为---> MMO_ProfileCell
+类名: SettingsViewController <---替换为---> MMO_VideoController
+类名: BlacklistViewController <---替换为---> MMO_LoginRootController
+类名: BlacklistUserCell <---替换为---> MMO_BootstrapCell
+类名: EditProfileViewController <---替换为---> MMO_PublishSocialController
+类名: PublishPostViewController <---替换为---> MMO_SessionController
+类名: CommentSheetController <---替换为---> MMO_MainModelsController
+类名: ReportActionController <---替换为---> MMO_EditCatalogController
+类名: WalletViewController <---替换为---> MMO_CenterViewsController
+类名: WalletCell <---替换为---> MMO_ModelsCell
+类名: HomeTeamViewController <---替换为---> MMO_ViewsController
+类名: TeamRideCell <---替换为---> MMO_SettingsPublishCell
+类名: TeamDetailViewController <---替换为---> MMO_ModityViewsController
+类名: VideoFeedViewController <---替换为---> MMO_RootController
+类名: VideoPageCell <---替换为---> MMO_GuideRideCell
+类名: GuideViewController <---替换为---> MMO_StoreSecondaryController
+类名: WelcomeViewController <---替换为---> MMO_SocialDomainController
+类名: LoginViewController <---替换为---> MMO_StoreController
+类名: RegisterViewController <---替换为---> MMO_MainController
+类名: PolicyWebController <---替换为---> MMO_CenterMotoController
+类名: WKWebHostView <---替换为---> MMO_SettingsView
+类名: MessageListViewController <---替换为---> MMO_ScreenModityController
+类名: ChatRoomViewController <---替换为---> MMO_SecondaryAuthController
+类名: ChatBubbleCell <---替换为---> MMO_DelegateCell
+类名: VideoCallViewController <---替换为---> MMO_ModityController
+类名: UserHomeViewController <---替换为---> MMO_TeamThemeController
+类名: InsetLabel <---替换为---> MMO_AuthLabel
+类名: MainTabBarController <---替换为---> MMO_ClientLaunchController
+类名: MapViewController <---替换为---> MMO_RegisterController
+类名: RiderMapAnnotation <---替换为---> MMO_Ride
+类名: RiderAnnotationView <---替换为---> MMO_ServicesProfileView
+类名: ClubDetailViewController <---替换为---> MMO_DomainHomeController
+类名: ClubListViewController <---替换为---> MMO_SecondaryController
+类名: ClubTableCell <---替换为---> MMO_AuthRootCell
+类名: ProfileViewController <---替换为---> MMO_ClubRouterController
+类名: MyMotoViewController <---替换为---> MMO_LoginController
+类名: ServiceFault <---替换为---> MMO_DelegateModels
+类名: AuthService <---替换为---> MMO_HomeNews
+类名: SocialGraphService <---替换为---> MMO_Catalog
+类名: ContentService <---替换为---> MMO_MotoLaunch
+类名: ChatService <---替换为---> MMO_Video
+
+
+开始替换所有源文件中的类名。。。。。。
+
+
+
+混淆类名耗时：0.0013060569763183594秒
+
+
+混淆图片xml资源耗时：0.6747939586639404秒
+
+
+开始替换宏定义名称。。。。。。
+
+
+
+开始提取所有协议名并生成新协议名。。。。。。
+
+
+开始翻新xib、storyboard控件ID值以及布局微调。。。。。。
+
+
+开始混淆多语言文件的key名称。。。。。。
+
+
+开始自动检测类继承关系。。。。。。
+MMO_ClubFeedView : UIView
+MMO_SecondaryMotoButton : UIButton
+MMO_EditHeader : UIView
+MMO_FeedView : UIView
+MMO_RideView : UIView
+MMO_RouterAuthView : UIView
+MMO_MainSocialController : UIViewController
+AppDelegate : UIResponder
+MMO_MotoController : UIViewController
+MMO_BootstrapController : MMO_MainSocialController
+MMO_ProfileCell : UITableViewCell
+MMO_VideoController : MMO_MainSocialController
+MMO_LoginRootController : MMO_MainSocialController
+MMO_BootstrapCell : UITableViewCell
+MMO_PublishSocialController : MMO_MainSocialController
+MMO_SessionController : UIViewController
+MMO_MainModelsController : UIViewController
+MMO_EditCatalogController : UIViewController
+MMO_CenterViewsController : MMO_MainSocialController
+MMO_ModelsCell : UITableViewCell
+MMO_ViewsController : UIViewController
+MMO_SettingsPublishCell : UITableViewCell
+MMO_ModityViewsController : UIViewController
+MMO_RootController : UIViewController
+MMO_GuideRideCell : UICollectionViewCell
+MMO_StoreSecondaryController : UIViewController
+MMO_SocialDomainController : UIViewController
+MMO_StoreController : MMO_MainSocialController
+MMO_MainController : MMO_MainSocialController
+MMO_CenterMotoController : MMO_MainSocialController
+MMO_SettingsView : UIView
+MMO_ScreenModityController : MMO_MainSocialController
+MMO_SecondaryAuthController : UIViewController
+MMO_DelegateCell : UITableViewCell
+MMO_ModityController : UIViewController
+MMO_TeamThemeController : UIViewController
+MMO_AuthLabel : UILabel
+MMO_ClientLaunchController : UITabBarController
+MMO_RegisterController : UIViewController
+MMO_Ride : NSObject
+MMO_ServicesProfileView : MKAnnotationView
+MMO_DomainHomeController : UIViewController
+MMO_SecondaryController : UIViewController
+MMO_AuthRootCell : UITableViewCell
+MMO_ClubRouterController : UIViewController
+MMO_LoginController : MMO_MainSocialController
+
+
+开始自动检测统计所有文件中属性信息。。。。。。
+
+
+开始自动修改Assets图片资源。。。。。。。
+
+Assets图片资源修改结束
+
+
+开始自动修改sks资源名称。。。。。。。
+
+sks资源修改结束
+
+开始打乱函数定义顺序。。。。。。。
+100%👌
+
+开始提取分析源文件中函数名称。。。。。。。
+文件: [旧 GatewayClient <--> 新 MMO_LaunchLogin]    函数名称: encrypt
+文件: [旧 GatewayClient <--> 新 MMO_LaunchLogin]    函数名称: decrypt
+文件: [旧 GatewayClient <--> 新 MMO_LaunchLogin]    函数名称: crypt
+文件: [旧 GatewayClient <--> 新 MMO_LaunchLogin]    函数名称: requestVoid
+文件: [旧 LocalStore <--> 新 MMO_Register]    函数名称: markDeleted
+文件: [旧 LocalStore <--> 新 MMO_Register]    函数名称: isDeleted
+文件: [旧 ThemeComponents <--> 新 MMO_Moto]    函数名称: applyStyle
+文件: [旧 ThemeComponents <--> 新 MMO_Moto]    函数名称: rightTap
+文件: [旧 ThemeComponents <--> 新 MMO_Moto]    函数名称: backTap
+文件: [旧 ThemeComponents <--> 新 MMO_Moto]    函数名称: configure
+文件: [旧 ThemeComponents <--> 新 MMO_Moto]    函数名称: setMessage
+文件: [旧 ThemeComponents <--> 新 MMO_Moto]    函数名称: rf_setEmptyState
+文件: [旧 ThemeComponents <--> 新 MMO_Moto]    函数名称: configure
+文件: [旧 ThemeComponents <--> 新 MMO_Moto]    函数名称: tapAction
+文件: [旧 ThemeComponents <--> 新 MMO_Moto]    函数名称: runLoading
+文件: [旧 AppTheme <--> 新 MMO_Root]    函数名称: gradientColors
+文件: [旧 AppTheme <--> 新 MMO_Root]    函数名称: primaryGradientLayer
+文件: [旧 AppTheme <--> 新 MMO_Root]    函数名称: named
+文件: [旧 AppTheme <--> 新 MMO_Root]    函数名称: pinEdges
+文件: [旧 AppTheme <--> 新 MMO_Root]    函数名称: applyCardBorder
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: restore
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: deleteAccountAndSignOut
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: refreshBalance
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: signOut
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: updateProfile
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: spendCoins
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: applySignedIn
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: setBalance
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: purgeAllData
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: purgeRegisteredAccount
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: purgeCatalogUser
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: purgePostsLikesAndComments
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: purgeChat
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: scrubMessages
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: filterList
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: purgeSocialGraph
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: purgeWallet
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: purgeMemberships
+文件: [旧 AccountSession <--> 新 MMO_Guide]    函数名称: purgeMotoGarage
+文件: [旧 AppRootRouter <--> 新 MMO_Local]    函数名称: makeRoot
+文件: [旧 AppRootRouter <--> 新 MMO_Local]    函数名称: switchTo
+文件: [旧 AppRootRouter <--> 新 MMO_Local]    函数名称: showWelcome
+文件: [旧 AppRootRouter <--> 新 MMO_Local]    函数名称: showMain
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: ensureCameraAndMic
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: ensurePhotoOrCamera
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: openChat
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: openVideoCall
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: messageTap
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: videoTap
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: bind
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: unblock
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: bind
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: deleteTap
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: endEditingField
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: pickAvatar
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: saveTap
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: updateMediaUI
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: makeCostTip
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: pickVideo
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: firstFrame
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: setupUI
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: publishTap
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: clearVideo
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: videoURL
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: resolvePlaybackURL
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: sendTap
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: formatAmount
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: refreshBalance
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: purchase
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: loadStore
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: buy
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo]    函数名称: bind
+文件: [旧 HomeTeamViewController <--> 新 MMO_ViewsController]    函数名称: openMessages
+文件: [旧 HomeTeamViewController <--> 新 MMO_ViewsController]    函数名称: loadData
+文件: [旧 HomeTeamViewController <--> 新 MMO_ViewsController]    函数名称: refreshBadge
+文件: [旧 HomeTeamViewController <--> 新 MMO_ViewsController]    函数名称: bind
+文件: [旧 TeamDetailViewController <--> 新 MMO_ModityViewsController]    函数名称: joinTap
+文件: [旧 TeamDetailViewController <--> 新 MMO_ModityViewsController]    函数名称: bindData
+文件: [旧 TeamDetailViewController <--> 新 MMO_ModityViewsController]    函数名称: setupUI
+文件: [旧 TeamDetailViewController <--> 新 MMO_ModityViewsController]    函数名称: routeDateText
+文件: [旧 TeamDetailViewController <--> 新 MMO_ModityViewsController]    函数名称: openHost
+文件: [旧 TeamDetailViewController <--> 新 MMO_ModityViewsController]    函数名称: refreshJoinState
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: updateCurrentIndexFromScroll
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: pauseAllVisible
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: openPost
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: playCurrent
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: setupMediaIfNeeded
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: startPlayback
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: openUser
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: followTap
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: likeTap
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: moreTap
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: commentTap
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: refreshMeta
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: configure
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: togglePlay
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: tearDownPlayer
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: pausePlayback
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController]    函数名称: chatTap
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish]    函数名称: finish
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish]    函数名称: nextPage
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish]    函数名称: makeDivider
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish]    函数名称: goLogin
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish]    函数名称: goRegister
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish]    函数名称: appleTap
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish]    函数名称: setupForm
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish]    函数名称: styleField
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish]    函数名称: openPolicy
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: reloadMessages
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: handleUserBlocked
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: scrollToBottom
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: openPeer
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: setupBackground
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: setupHeader
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: keyboardWillChange
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: setupTable
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: setupInputBar
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: startVideo
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: setupPeerCard
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: bind
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: setupHeader
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: startDotsAnimation
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: startCamera
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: setupCenterPeer
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: setupBottomControls
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: setupGradients
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: toggleMic
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: stopDotsAnimation
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: toggleVoice
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: setupCameraBackground
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: hangup
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: shortName
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: styleActionButton
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: reportTap
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: handleUserBlocked
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: videoThumbnail
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: backTap
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: displayMeta
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: makePostThumb
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: chatTap
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: followTap
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: rebuildPosts
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: bind
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: setupUI
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: styleCircleButton
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: displayId
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: styleBadge
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome]    函数名称: refreshActions
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController]    函数名称: updateFloatingBarVisibility
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController]    函数名称: updateSelection
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController]    函数名称: setupFloatingBar
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController]    函数名称: tabTap
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController]    函数名称: setTabVisible
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController]    函数名称: pushFromTab
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: finishRide
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: locateTap
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: clearRouteOverlay
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: requestAndStart
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: redrawRoute
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: formatTime
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: setupLocation
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: refreshTrackingUI
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: appendLocation
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: startTap
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: locationManagerDidChangeAuthorization
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: showLocationDenied
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: refreshIdleUI
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: updateRiderAnnotation
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: setupUI
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: backTap
+文件: [旧 MapViewController <--> 新 MMO_RegisterController]    函数名称: configure
+文件: [旧 ClubDetailViewController <--> 新 MMO_DomainHomeController]    函数名称: refreshJoinState
+文件: [旧 ClubDetailViewController <--> 新 MMO_DomainHomeController]    函数名称: backTap
+文件: [旧 ClubDetailViewController <--> 新 MMO_DomainHomeController]    函数名称: reportTap
+文件: [旧 ClubDetailViewController <--> 新 MMO_DomainHomeController]    函数名称: bindData
+文件: [旧 ClubDetailViewController <--> 新 MMO_DomainHomeController]    函数名称: joinTap
+文件: [旧 ClubDetailViewController <--> 新 MMO_DomainHomeController]    函数名称: setupUI
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents]    函数名称: bind
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents]    函数名称: openFollowing
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents]    函数名称: openMyMoto
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents]    函数名称: openFollowers
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents]    函数名称: rebuild
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents]    函数名称: makeHonorCard
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents]    函数名称: firstLoad
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents]    函数名称: openMap
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents]    函数名称: openSettings
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents]    函数名称: openWallet
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents]    函数名称: makeWalletBar
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents]    函数名称: configureCountButton
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents]    函数名称: editProfile
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents]    函数名称: inviteTap
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents]    函数名称: openFriends
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents]    函数名称: makeStatCard
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController]    函数名称: selectBike
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController]    函数名称: makeStatBox
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController]    函数名称: sectionTitle
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController]    函数名称: saveTap
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController]    函数名称: applySelectionUI
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController]    函数名称: bind
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController]    函数名称: setupUI
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController]    函数名称: imageName
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController]    函数名称: setImageName
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: signInWithApple
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: signIn
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: recalculateCounts
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: stamp
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: unblock
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: blacklistIds
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: syncCurrentCounts
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: isMutual
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: isFollowedBy
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: isFollowing
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: hidePost
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: unfollow
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: report
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: joinTeam
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: addComment
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: toggleLike
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: joinClub
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: deletePost
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: publishVideo
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: scrubMessages
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: loadConversationsRaw
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: markRead
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: clearChat
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: unreadTotal
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: persistConversations
+文件: [旧 SocialServices <--> 新 MMO_Theme]    函数名称: openOrCreateConversation
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter]    函数名称: prepareIfNeeded
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter]    函数名称: scrubDeletedExperienceAccountIfNeeded
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter]    函数名称: ensureClubMemberAvatars
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter]    函数名称: ensureExperienceWalletDefault
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter]    函数名称: seedAll
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter]    函数名称: builtInRiders
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter]    函数名称: experienceRider
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter]    函数名称: teamHostRiders
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter]    函数名称: builtInPosts
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter]    函数名称: builtInComments
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter]    函数名称: builtInTeams
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter]    函数名称: builtInClubs
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter]    函数名称: experienceConversations
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter]    函数名称: experienceMessages
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter]    函数名称: coinProducts
+
+
+开始混淆函数里面局部变量名称。。。。。。。
+文件: [旧 ClubDetailViewController <--> 新 MMO_DomainHomeController] 局部变量: avatars -> peer
+文件: [旧 ClubDetailViewController <--> 新 MMO_DomainHomeController] 局部变量: iv -> imgView
+文件: [旧 ClubDetailViewController <--> 新 MMO_DomainHomeController] 局部变量: coverHeight -> max_7
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: cell -> m_viewCell
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: editBadge -> contentD
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: stats -> dest
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: wallet -> local_60
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: invite -> dir
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: kmCard -> bike
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: timeCard -> country
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: motoCard -> duration
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: grid -> icon
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: honor -> floating
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: box -> buy
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: title -> size_12
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: desc -> join
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: medals -> catalog
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: iv -> imgView
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: button -> leadingButton
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: text -> launch
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: activity -> mintActivity
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: box -> buy
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: bg -> ink
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: titleLabel -> starsLabel
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: valueLabel -> posterLabel
+文件: [旧 ClubProfileViews <--> 新 MMO_PublishComponents] 局部变量: arrowBtn -> extrasBtn
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: accounts -> controller
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: registered -> local_8
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: inCatalog -> scroll
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: flag -> get__
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: fresh -> u_center
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: stored -> start
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: byId -> dir
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: flag -> get__
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: wallets -> make
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: idx -> label
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: riders -> raw
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: experience -> site
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: teamHosts -> index
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: allUsers -> conversationk
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: posts -> begin
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: comments -> bootstrap
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: teams -> dirG
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: clubs -> startD
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: conversations -> gradient
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: messages -> trailing
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: wallets -> make
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: following -> preview
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: graph -> device
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: accounts -> controller
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: names -> conversations
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: avatars -> peer
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: bikes -> bootstrapv
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: p -> medals
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: list -> now
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: texts -> email
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: videoPosts -> should
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: count -> l_badge
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: author -> textsD
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: titles -> push
+文件: [旧 CatalogBootstrap <--> 新 MMO_RootCenter] 局部变量: details -> return_d
+文件: [旧 LocalStore <--> 新 MMO_Register] 局部变量: list -> now
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: wallets -> make
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: uid -> crypt
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: wallets -> make
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: wallets -> make
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: p -> medals
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: wallets -> make
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: w -> cell
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: wallets -> make
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: email -> apply
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: accounts -> controller
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: users -> change
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: posts -> begin
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: removedPostIds -> overlap
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: comments -> bootstrap
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: removedCommentPostIds -> done
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: commentCountByPost -> removing
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: conversations -> gradient
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: removingAllShared -> blocked
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: removedIds -> clubs
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: list -> now
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: g -> donew
+文件: [旧 AccountSession <--> 新 MMO_Guide] 局部变量: wallets -> make
+文件: [旧 ThemeComponents <--> 新 MMO_Moto] 局部变量: path -> collection
+文件: [旧 ThemeComponents <--> 新 MMO_Moto] 局部变量: step -> avatar
+文件: [旧 ThemeComponents <--> 新 MMO_Moto] 局部变量: x -> wallets
+文件: [旧 ThemeComponents <--> 新 MMO_Moto] 局部变量: y -> sheet
+文件: [旧 ThemeComponents <--> 新 MMO_Moto] 局部变量: empty -> messages
+文件: [旧 ThemeComponents <--> 新 MMO_Moto] 局部变量: btn -> fittedBtn
+文件: [旧 ThemeComponents <--> 新 MMO_Moto] 局部变量: action -> default_cr
+文件: [旧 ThemeComponents <--> 新 MMO_Moto] 局部变量: alert -> begin
+文件: [旧 ThemeComponents <--> 新 MMO_Moto] 局部变量: container -> kind
+文件: [旧 ThemeComponents <--> 新 MMO_Moto] 局部变量: label -> rebuildLabel
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: group -> encoder
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: cam -> theme
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: mic -> current
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: picker -> host
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: config -> route
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: title -> size_12
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: ids -> size_1m
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: cell -> m_viewCell
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: user -> speaker
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: conv -> configView
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: items -> members
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: previous -> style
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: btn -> fittedBtn
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: cell -> m_viewCell
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: user -> speaker
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: next -> container
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: avatarSize -> reports
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: next -> container
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: name -> rider
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: text -> launch
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: name -> rider
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: dest -> following
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: thumb -> preset
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: config -> route
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: picker -> host
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: asset -> f_player
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: generator -> img
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: cg -> stars
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: postTitle -> uid2
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: postContent -> show
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: caption -> routek
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: dir -> club
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: cell -> m_viewCell
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: c -> uid
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: author -> textsD
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: cfg -> kind
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: title -> size_12
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: send -> voice
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: text -> launch
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: card -> url
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: title -> size_12
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: stack -> prefill
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: actions -> next
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: btn -> fittedBtn
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: reasons -> modity
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: icon -> t_player
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: tableHeight -> apple
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: formatter -> a_view
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: value -> cell
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: current -> layout
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: cell -> m_viewCell
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: p -> medals
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: ids -> size_1m
+文件: [旧 SettingsWalletPublish <--> 新 MMO_MotoVideo] 局部变量: price -> accounts
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: nickname -> member
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: profile -> value
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: lower -> tab
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: accounts -> controller
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: profile -> value
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: users -> change
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: wallets -> make
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: lower -> tab
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: profile -> value
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: accounts -> controller
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: following -> preview
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: followers -> preset
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: friends -> clearance
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: f -> ink
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: g -> donew
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: g -> donew
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: list -> now
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: g -> donew
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: g -> donew
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: g -> donew
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: g -> donew
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: joined -> local_6
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: comments -> bootstrap
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: posts -> begin
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: list -> now
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: joined -> local_6
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: list -> now
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: blocked -> left
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: joined -> local_6
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: list -> now
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: joined -> local_6
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: posts -> begin
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: mediaName -> u_center
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: comments -> bootstrap
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: posts -> begin
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: seed -> num
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: extras -> created
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: list -> now
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: list -> now
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: removedIds -> clubs
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: all -> next
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: mine -> inkZ
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: extras -> created
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: list -> now
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: blocked -> left
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: list -> now
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: item -> followItem
+文件: [旧 SocialServices <--> 新 MMO_Theme] 局部变量: sheet -> l_title
+文件: [旧 HomeTeamViewController <--> 新 MMO_ViewsController] 局部变量: cell -> m_viewCell
+文件: [旧 HomeTeamViewController <--> 新 MMO_ViewsController] 局部变量: n -> container
+文件: [旧 HomeTeamViewController <--> 新 MMO_ViewsController] 局部变量: iv -> imgView
+文件: [旧 AppDelegate <--> 新 AppDelegate] 局部变量: launchVC -> generatorController
+文件: [旧 AppTheme <--> 新 MMO_Root] 局部变量: layer -> users
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController] 局部变量: nav -> modityView
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController] 局部变量: isRoot -> device
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController] 局部变量: home -> envelope
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController] 局部变量: video -> settings
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController] 局部变量: club -> users
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController] 局部变量: profile -> value
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController] 局部变量: showTab -> textT
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController] 局部变量: current -> layout
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController] 局部变量: name -> rider
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController] 局部变量: stack -> prefill
+文件: [旧 MainTabBarController <--> 新 MMO_ClientLaunchController] 局部变量: btn -> fittedBtn
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: previousId -> local_t6
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: pageHeight -> dir
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: index -> cell
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: layout -> b_title
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: balance -> generator
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: cell -> m_viewCell
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: currentPath -> ensure
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: path -> collectionl
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: item -> followItem
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: p -> medals
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: layer -> users
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: iv -> imgView
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: playNow -> time_ug
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: isMine -> presentation
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: sheet -> l_title
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: author -> textsD
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: isMine -> presentation
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: following -> preview
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: mutual -> row
+文件: [旧 VideoFeedViewController <--> 新 MMO_RootController] 局部变量: conv -> configView
+文件: [旧 GatewayClient <--> 新 MMO_LaunchLogin] 局部变量: ivData -> nickname
+文件: [旧 GatewayClient <--> 新 MMO_LaunchLogin] 局部变量: cryptLength -> done
+文件: [旧 GatewayClient <--> 新 MMO_LaunchLogin] 局部变量: cryptData -> layout
+文件: [旧 GatewayClient <--> 新 MMO_LaunchLogin] 局部变量: numBytes -> components
+文件: [旧 GatewayClient <--> 新 MMO_LaunchLogin] 局部变量: status -> graph
+文件: [旧 TeamDetailViewController <--> 新 MMO_ModityViewsController] 局部变量: host -> return_iw
+文件: [旧 TeamDetailViewController <--> 新 MMO_ModityViewsController] 局部变量: iv -> imgView
+文件: [旧 TeamDetailViewController <--> 新 MMO_ModityViewsController] 局部变量: hash -> member
+文件: [旧 TeamDetailViewController <--> 新 MMO_ModityViewsController] 局部变量: latest -> window_e9
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController] 局部变量: box -> buy
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController] 局部变量: titleLabel -> starsLabel
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController] 局部变量: label -> rebuildLabel
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController] 局部变量: name -> rider
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController] 局部变量: selected -> pop
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController] 局部变量: nameTitle -> avatars
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController] 局部变量: statsTitle -> topic
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController] 局部变量: statsRow -> bikes
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController] 局部变量: galleryTitle -> launch
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController] 局部变量: galleryScroll -> kind
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController] 局部变量: btn -> fittedBtn
+文件: [旧 MyMotoViewController <--> 新 MMO_LoginController] 局部变量: tip -> delegate_0c
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: skip -> read
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: next -> container
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: w -> cell
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: h -> insets
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: iv -> imgView
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: x -> wallets
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: box -> buy
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: left -> store
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: right -> keyboard
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: label -> rebuildLabel
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: bg -> ink
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: icon -> t_player
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: title -> size_12
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: login -> delegate_dq
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: create -> items
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: divider -> containerA
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: apple -> y_hash
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: request -> host
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: controller -> authorController
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: name -> rider
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: btn -> fittedBtn
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: email -> apply
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: password -> path
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: ph -> step
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: agree -> mode
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: text -> launch
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: btn -> fittedBtn
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: email -> apply
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: password -> path
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: nickname -> member
+文件: [旧 GuideAuthViews <--> 新 MMO_Publish] 局部变量: wk -> stored
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: item -> followItem
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: cell -> m_viewCell
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: item -> followItem
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: peer -> report
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: content -> price
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: badge -> compact
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: index -> cell
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: peer -> report
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: duration -> followers
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: keyboardInView -> o_imageView
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: overlap -> floating
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: text -> launch
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: bottom -> store
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: peer -> report
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: cell -> m_viewCell
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: peer -> report
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: index -> cell
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: active -> gallery
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: session -> services
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: input -> skip
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: peer -> report
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: dot -> amount
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: stack -> prefill
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: name -> rider
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: name -> rider
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: asset -> f_player
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: gen -> input
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: countries -> bubble
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: h -> insets
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: box -> buy
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: iv -> imgView
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: thumb -> preset
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: play -> comment
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: conv -> configView
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: posts -> begin
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: items -> members
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: empty -> messages
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: meta -> models
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: coverHeight -> max_7
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: followH -> sender
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: chatH -> media
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: hash -> member
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: isMe -> void_q
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: following -> preview
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: mutual -> row
+文件: [旧 SocialSecondaryViews <--> 新 MMO_ComponentsHome] 局部变量: fitted -> observation
+文件: [旧 MapViewController <--> 新 MMO_RegisterController] 局部变量: meters -> services
+文件: [旧 MapViewController <--> 新 MMO_RegisterController] 局部变量: seconds -> value
+文件: [旧 MapViewController <--> 新 MMO_RegisterController] 局部变量: addKm -> poster
+文件: [旧 MapViewController <--> 新 MMO_RegisterController] 局部变量: addMin -> hang
+文件: [旧 MapViewController <--> 新 MMO_RegisterController] 局部变量: renderer -> item
+文件: [旧 MapViewController <--> 新 MMO_RegisterController] 局部变量: polyline -> invite
+文件: [旧 MapViewController <--> 新 MMO_RegisterController] 局部变量: h -> insets
+文件: [旧 MapViewController <--> 新 MMO_RegisterController] 局部变量: m -> from
+文件: [旧 MapViewController <--> 新 MMO_RegisterController] 局部变量: s -> index
+文件: [旧 MapViewController <--> 新 MMO_RegisterController] 局部变量: delta -> age
+文件: [旧 MapViewController <--> 新 MMO_RegisterController] 局部变量: speedKmh -> road
+文件: [旧 MapViewController <--> 新 MMO_RegisterController] 局部变量: km -> circle
+文件: [旧 MapViewController <--> 新 MMO_RegisterController] 局部变量: view -> emailsView
+文件: [旧 MapViewController <--> 新 MMO_RegisterController] 局部变量: statsStack -> total
+文件: [旧 MapViewController <--> 新 MMO_RegisterController] 局部变量: locateBg -> purge
+文件: [旧 MapViewController <--> 新 MMO_RegisterController] 局部变量: t -> cell
+
+
+开始自动生成垃圾代码文件。。。。。。。
+100%👌
+
+
+开始自动融合生成的垃圾代码文件。。。。。。
+100%👌
+
+
+开始自动随机生成属性并插入头文件和源文件。。。。。。。
+[old: GatewayClient -> new: MMO_LaunchLogin] insert  var get_yEnd_list: [Any]!
+var destPlayer_list: [Any]!
+var kilometersSaveLayoutString: String!
+private var experienceIndex: Int? = 0
+
+[old: GatewayClient -> new: MMO_LaunchLogin] insert  var canProduct: Bool? = false
+var widthHangHasString: String?
+
+[old: LocalStore -> new: MMO_Register] insert  var noteMsg_map: [String: Any]!
+private var hasPadding: Float? = 0.0
+private var displayStartShow_list: [Any]?
+private var signed_yrCellArr: [Any]!
+
+[old: ThemeComponents -> new: MMO_Moto] insert  var done_index: Int? = 0
+var pickFlagString: String!
+
+[old: ThemeComponents -> new: MMO_Moto] insert  var g_title: Double? = 0.0
+var currentSrc_dictionary: [String: Any]?
+
+[old: ThemeComponents -> new: MMO_Moto] insert  private var ridePrepareTabStr: String!
+var canBorder: Bool? = false
+
+[old: ThemeComponents -> new: MMO_Moto] insert  var return_1m: Bool? = false
+private var has_Input: Bool? = false
+var nameStatsLength_string: String!
+private var dateExtrasString: String!
+
+[old: ThemeComponents -> new: MMO_Moto] insert  private var full_flag: Int? = 0
+private var currentOffset: Float? = 0.0
+var has_Anchor: Bool? = false
+
+[old: ThemeComponents -> new: MMO_Moto] insert  private var hasCam: Bool? = false
+private var unreadCountrySettingsString: String!
+private var reasonRide_str: String?
+
+[old: ThemeComponents -> new: MMO_Moto] insert  private var annotationOffset: Double? = 0.0
+private var containerViewMotoStr: String!
+
+[old: ThemeComponents -> new: MMO_Moto] insert  private var hostNumSpinner_str: String?
+var showsJoinedString: String?
+var enbaleClub: Bool? = false
+var ringValueStr: String!
+
+[old: AccountSession -> new: MMO_Guide] insert  private var filterSum: Int? = 0
+var reasonsExistingString: String!
+var post_padding: Double? = 0.0
+
+[old: DomainModels -> new: MMO_Feed] insert  var tip_min: Double? = 0
+var nextFieldStr: String!
+var optionsIntroRegister_x2_str: String!
+var is_Social: Bool? = false
+
+[old: DomainModels -> new: MMO_Feed] insert  var outOffset: Double? = 0
+var pause_offset: Float? = 0
+var is_Ink: Bool? = false
+var router_sum: Int? = 0
+
+[old: DomainModels -> new: MMO_Feed] insert  var style_tag: Int? = 0
+var theme_margin: Double? = 0
+
+[old: DomainModels -> new: MMO_Feed] insert  var sessionPopShouldString: String!
+var rideSize: Double? = 0
+
+[old: DomainModels -> new: MMO_Feed] insert  var divider_offset: Double? = 0
+var polyline_margin: Double? = 0
+var graphTag: Int? = 0
+var motoPadding: Float? = 0
+
+[old: DomainModels -> new: MMO_Feed] insert  var purgeIdx: Int? = 0
+var sessionMin: Double? = 0
+var uid_offset: Float? = 0
+var visibilityPresentationThumbString: String!
+
+[old: DomainModels -> new: MMO_Feed] insert  var codeOffset: Double? = 0
+var routerShouldMedals_str: String!
+var visibility_min: Double? = 0
+
+[old: DomainModels -> new: MMO_Feed] insert  var conv_space: Float? = 0
+var selected_offset: Double? = 0
+
+[old: DomainModels -> new: MMO_Feed] insert  var can_Data: Bool? = false
+var peer_padding: Double? = 0
+
+[old: DomainModels -> new: MMO_Feed] insert  var indexSize: Double? = 0
+var launch_flag: Int? = 0
+var enbale_Club: Bool? = false
+
+[old: DomainModels -> new: MMO_Feed] insert  var timer_t: Bool? = false
+var post_flag: Int? = 0
+var e_hash: Double? = 0
+
+[old: AppDelegate -> new: AppDelegate] insert  private var centerGraphGet_8mString: String!
+private var titlesMin: Double? = 0.0
+
+[old: LaunchViewController -> new: MMO_MotoController] insert  private var iconsPointArray: [Any]?
+var reportsMax_aExtrasString: String!
+private var signPadding: Float? = 0.0
+private var mint_min: Float? = 0.0
+
+[old: SettingsWalletPublish -> new: MMO_MotoVideo] insert  var will_idx: Int? = 0
+var hasLiked: Bool? = false
+private var namesFlag: Int? = 0
+private var is_Style: Bool? = false
+
+[old: SettingsWalletPublish -> new: MMO_MotoVideo] insert  var bottomTableClubsList: [Any]!
+private var iconBioMap_string: String!
+private var profileBlockedValidStr: String?
+
+[old: SettingsWalletPublish -> new: MMO_MotoVideo] insert  private var startedBorderModity_dictionary: [String: Any]?
+var tableRawString: String!
+var textsSpace: Double? = 0.0
+
+[old: SettingsWalletPublish -> new: MMO_MotoVideo] insert  private var tabObservationItems_arr: [Any]!
+var timer_margin: Double? = 0.0
+var countPickerStr: String!
+
+[old: SettingsWalletPublish -> new: MMO_MotoVideo] insert  var distance_l: Double? = 0.0
+var statusKeyboardMotorcycle_string: String!
+var removingOffset: Double? = 0.0
+
+[old: SettingsWalletPublish -> new: MMO_MotoVideo] insert  private var descIdsStr: String?
+var mnewsClearCfgStr: String!
+var addMax: Double? = 0.0
+var metaMotoCollection_map: [String: Any]!
+
+[old: SettingsWalletPublish -> new: MMO_MotoVideo] insert  var safeKilometersStr: String?
+private var fullLocate_map: [String: Any]?
+private var medalsPadding: Double? = 0.0
+private var can_Desc: Bool? = false
+
+[old: SettingsWalletPublish -> new: MMO_MotoVideo] insert  var peerSize: Double? = 0.0
+var experienceInsetsEmailArray: [Any]?
+private var galleryFromDeleted_string: String!
+var joinedDefaultsComponentsArr: [Any]?
+
+[old: SettingsWalletPublish -> new: MMO_MotoVideo] insert  var tapMin: Double? = 0.0
+private var x_title_c: Int? = 0
+var membersRootMode_arr: [Any]?
+private var accuracy_u: Float? = 0.0
+
+[old: SettingsWalletPublish -> new: MMO_MotoVideo] insert  var enbale_Social: Bool? = false
+var camera_margin: Double? = 0.0
+private var sendMediaDictionary: [String: Any]!
+private var durationNow_map: [String: Any]!
+
+[old: SettingsWalletPublish -> new: MMO_MotoVideo] insert  private var hasCaptionNum_list: [Any]?
+private var services_max: Double? = 0.0
+
+[old: HomeTeamViewController -> new: MMO_ViewsController] insert  private var handleOfficialNewsString: String!
+var micLayoutDict: [String: Any]?
+var honorHeight_str: String!
+
+[old: HomeTeamViewController -> new: MMO_ViewsController] insert  private var stepInviteArray: [Any]!
+var lower_idx: Int? = 0
+var numRegister_hTearString: String?
+private var seconds_space: Double? = 0.0
+
+[old: TeamDetailViewController -> new: MMO_ModityViewsController] insert  private var srcIdleUsersStr: String?
+private var call_max: Double? = 0.0
+var cellMediaString: String!
+private var pop_margin: Float? = 0.0
+
+[old: VideoFeedViewController -> new: MMO_RootController] insert  private var headerPeerMicList: [Any]?
+var selectedMark: Int? = 0
+private var showLocationDefaultsStr: String!
+
+[old: VideoFeedViewController -> new: MMO_RootController] insert  var flagHostsFreshString: String!
+private var statusPadding: Double? = 0.0
+private var blockedCryptStr: String!
+private var heroPhotoElapsedStr: String!
+
+[old: GuideAuthViews -> new: MMO_Publish] insert  var convMax: Float? = 0.0
+private var collectionReasons_arr: [Any]?
+private var w_layer: Double? = 0.0
+
+[old: GuideAuthViews -> new: MMO_Publish] insert  var stored_size: Double? = 0.0
+var has_Social: Bool? = false
+var theme_min: Double? = 0.0
+
+[old: GuideAuthViews -> new: MMO_Publish] insert  var motorcycleMakeDelete_pArray: [Any]!
+private var resultSize: Float? = 0.0
+
+[old: GuideAuthViews -> new: MMO_Publish] insert  private var noteFlag: Int? = 0
+var likedOffset: Double? = 0.0
+private var minutes_size: Double? = 0.0
+
+[old: GuideAuthViews -> new: MMO_Publish] insert  var peerCount: Int? = 0
+private var moreFollowerDict: [String: Any]!
+private var hostAnnotation_arr: [Any]!
+var captionFollowing_list: [Any]!
+
+[old: GuideAuthViews -> new: MMO_Publish] insert  private var speakerStyleShow_arr: [Any]!
+var minutesMargin: Double? = 0.0
+private var memberSum: Int? = 0
+
+[old: SocialSecondaryViews -> new: MMO_ComponentsHome] insert  var speakerSize: Double? = 0.0
+private var out_offset: Double? = 0.0
+var tipSize: Double? = 0.0
+var hasPush: Bool? = false
+
+[old: SocialSecondaryViews -> new: MMO_ComponentsHome] insert  private var gallerySeconds_string: String?
+private var loadTitlesStars_str: String!
+private var local_1: Int? = 0
+
+[old: SocialSecondaryViews -> new: MMO_ComponentsHome] insert  var follow_space: Double? = 0.0
+var lowerRestoreRegisteredArr: [Any]!
+var actionsStoreDid_map: [String: Any]?
+
+[old: SocialSecondaryViews -> new: MMO_ComponentsHome] insert  private var tipCrypt_map: [String: Any]!
+private var hasLike: Bool? = false
+private var enbale_Tab: Bool? = false
+var mintOffset: Float? = 0.0
+
+[old: SocialSecondaryViews -> new: MMO_ComponentsHome] insert  private var contentDividerStr: String!
+var conversationsTimer_string: String?
+
+[old: SocialSecondaryViews -> new: MMO_ComponentsHome] insert  var strIdx: Int? = 0
+var enbaleConfig: Bool? = false
+var doneThumb_str: String!
+private var canRoot: Bool? = false
+
+[old: MainTabBarController -> new: MMO_ClientLaunchController] insert  var routerSoft_arr: [Any]?
+var commentsMark: Int? = 0
+var price_margin: Float? = 0.0
+
+[old: MapViewController -> new: MMO_RegisterController] insert  private var rgbRidersString: String?
+private var b_hash: Bool? = false
+private var commentsMax: Double? = 0.0
+var inputItemsDict: [String: Any]!
+
+[old: MapViewController -> new: MMO_RegisterController] insert  private var envelopeViewArr: [Any]?
+private var noteData_string: String!
+var nextIdx: Int? = 0
+
+[old: MapViewController -> new: MMO_RegisterController] insert  private var didStyleDirDict: [String: Any]!
+var is_Start: Bool? = false
+var placeholder_max: Float? = 0.0
+var will_count: Int? = 0
+
+[old: ClubDetailViewController -> new: MMO_DomainHomeController] insert  var is_Mutual: Bool? = false
+private var backSize: Double? = 0.0
+private var membersCreatedString: String?
+
+[old: ClubProfileViews -> new: MMO_PublishComponents] insert  private var galleryNum_string: String!
+private var durationGet_s2_string: String!
+var inputBackground_string: String?
+
+[old: ClubProfileViews -> new: MMO_PublishComponents] insert  var barDownSoft_dict: [String: Any]!
+var default_9LoadFollowing_arr: [Any]!
+
+[old: ClubProfileViews -> new: MMO_PublishComponents] insert  var strGraph_dictionary: [String: Any]!
+private var validFullMin_c3Dict: [String: Any]!
+var has_Friends: Bool? = false
+var codeStatsArr: [Any]!
+
+[old: MyMotoViewController -> new: MMO_LoginController] insert  private var enbaleLatest: Bool? = false
+var isRoot: Bool? = false
+
+[old: SocialServices -> new: MMO_Theme] insert  var host_min: Double? = 0
+var point_space: Float? = 0
+
+[old: SocialServices -> new: MMO_Theme] insert  private var playerDefault_iTeamsString: String?
+private var enbaleShow: Bool? = false
+private var isDetail: Bool? = false
+private var storedEncoderDistance_str: String!
+
+[old: SocialServices -> new: MMO_Theme] insert  private var constraintGeneratorVisibilityString: String?
+private var lastMax: Float? = 0.0
+
+[old: SocialServices -> new: MMO_Theme] insert  private var did_idx: Int? = 0
+var dividerAnnotationFresh_dict: [String: Any]?
+var is_Ensure: Bool? = false
+var detailSize: Double? = 0.0
+
+[old: SocialServices -> new: MMO_Theme] insert  private var countryPostsRemoved_string: String!
+private var stars_size: Double? = 0.0
+
+
+
+开始自动加密混淆字符串。。。。。。。
+"https://opi.9gnprx32.link"
+"https://app.9gnprx32.link"
+"https://docs.google.com/document/d/1hRkzWm0C5itQhDYbodXUGqWc80_2GHvz_FbN3Rh6854/edit?usp=sharing"
+"https://docs.google.com/document/d/1eJ0ntY6pF4UNuGxBWhkJTQZFlxZLd6kEh1q7NdJV0qU/edit?usp=sharing"
+
+
+开始融合并调用生成的垃圾代码文件函数或者类。。。。。。。
+100%👌
+
+开始扰乱改变函数里面执行顺序。。。。。。。
+100%👌
+
+
+开始插入混淆函数并在现有函数体里面自动插入混淆函数调用语句。。。。。。。
+100%👌
+
+
+开始自动插入头文件混淆函数定义语句。。。。。。。
+100%👌
+
+
+开始生成新混淆源文件。。。。。。。
+100%👌
+
+
+开始自动更新项目配置。。。。。。。
+100%👌

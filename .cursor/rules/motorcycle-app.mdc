@@ -1,0 +1,33 @@
+---
+description: 机车社交 App 关键技术记忆与开发约束
+alwaysApply: true
+---
+
+# MotorcycleSocialRp 关键记忆
+
+## 资源路径
+- 设计原稿：`摩托社交设计图/设计图界面原稿/`
+- 切图：`摩托社交设计图/项目细节切图/`（按界面分子目录）
+- 内容：`摩托社交设计图/内容填充相关资料/`
+- 配置：`FL-Momxz.txt`
+
+## 全局切图（勿重复导入）
+`back` `empty` | Tab:`tab_home(_sel)` `tab_video(_sel)` `tab_club(_sel)` `tab_profile(_sel)` | 登录:`welcome_bg/icon/title`
+
+## 账户
+- 会话单例：`AccountSession.shared`
+- 体验账号邮箱 `test@gmail.com` 密码 `123456`：完整社交数据
+- Apple/新注册：空社交态，余额 0
+- 发布/加入组队各扣 10 金币
+
+## 技术硬约束
+- 禁止 UIAlertController → 用 `ThemeAlertView`
+- 网络：`opi.9gnprx32.link` + AES key/iv 来自配置文件
+- 内购：真实 StoreKit，商品 ID 见 FL-Momxz.txt
+- 互关才能 Chat
+- 固定头（返回/更多/设置/标题）不随 ScrollView 滚动
+- 代码禁止出现 mock/fake/假数据/测试账号 等字样
+- 内容主题必须机车骑行相关
+
+## 文档
+详见根目录 `Claude.md` 与 `PLAN.md`
