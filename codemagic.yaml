@@ -4,15 +4,19 @@ workflows:
     max_build_duration: 120
     instance_type: mac_mini_m2
     
+    # 注意：这里填的是 Codemagic「团队集成」里 API Key 的名字，
+    # 不是 App Store 上的 App 显示名（Momi-Riding）。
+    # 查看路径：Codemagic → Team settings → Integrations → Developer Portal
+    # 当前签名已能用 Momi，说明集成名就是 Momi；不要改成 App 名。
     integrations:
-      app_store_connect: Momi  # TODO: 改成你的 App Store Connect 集成名称
+      app_store_connect: Momi
     
     environment:
       ios_signing:
         distribution_type: app_store
         bundle_identifier: com.MotorcycleSocial.momi
       vars:
-        BUNDLE_ID: "com.MotorcycleSocial.momi"  # TODO: 与上面保持一致
+        BUNDLE_ID: "com.MotorcycleSocial.momi"
       xcode: latest
       cocoapods: default
     
@@ -107,7 +111,15 @@ workflows:
           success: true
           failure: true
       
+      # 先只上传 IPA，确认上传成功后再打开 submit_to_testflight
       app_store_connect:
         auth: integration
-        submit_to_testflight: true
+        submit_to_testflight: false
+        # 若仍报 Failed to publish，到 Codemagic 构建日志 Publishing 段
+        # 搜 Unable to authenticate / No suitable application / ITMS-
+        # 常见原因：
+        # 1) API Key 角色需 Admin 或 App Manager（Developer 不够）
+        # 2) ASC 里尚未创建 Bundle ID = com.MotorcycleSocial.momi 的 App
+        # 3) ASC 有未同意的协议 / 税务 / 付费应用协议
+        # 4) Apple 侧偶发认证失败，重跑即可
 
